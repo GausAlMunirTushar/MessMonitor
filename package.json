@@ -1,0 +1,24 @@
+{
+  "name": "MessMate",
+  "version": "0.0.1",
+  "description": "MessMate is an online mess management system that allows users to place meal orders and manage their payments easily. The system provides real-time updates on the status of the user's order and allows them to provide feedback and ratings for the meals they receive. MessMate also provides reporting and analytics features for administrators to track user orders, payment history, and feedback ratings.",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js",
+    "dev": "nodemon server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/GausAlMunirTushar/MessMate.git"
+  },
+  "keywords": [
+    "MessMate",
+    "Mess Management System"
+  ],
+  "author": "Gaus Al Munir Tushar",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/GausAlMunirTushar/MessMate/issues"
+  },
+  "homepage": "https://github.com/GausAlMunirTushar/MessMate#readme"
+}
